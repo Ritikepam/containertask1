@@ -8,7 +8,7 @@ platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
 docker_build_context_path = "https://github.com/Ritikepam/containertask1#main:task08/application"
 docker_image_name         = "cmtr-9m9bm0bv-mod8-app"
-context_access_token = "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"
+context_access_token      = "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"
 
 aci_os_type          = "Linux"
 aci_container_name   = "cmtr-9m9bm0bv-mod8-ci"
